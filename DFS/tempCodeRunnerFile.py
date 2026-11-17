@@ -1,0 +1,1 @@
+new_state[j] = state[j] + (disk,)
